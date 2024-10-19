@@ -6250,10 +6250,10 @@ body.megamenu-popup-active .mobile-nav__content {
     width: 100%;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 430px) {
   .galley-two__list__item {
-    max-width: 320px;
-    min-width: 320px;
+    max-width: 200px;
+    min-width: 200px;
     width: 100%;
   }
 }
