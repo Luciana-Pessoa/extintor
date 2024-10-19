@@ -1,0 +1,177 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon58ce.eot?fsvogp');
+  src:  url('fonts/icomoon58ce.eot?fsvogp#iefix') format('embedded-opentype'),
+    url('fonts/icomoon58ce.ttf?fsvogp') format('truetype'),
+    url('fonts/icomoon58ce.woff?fsvogp') format('woff'),
+    url('fonts/icomoon58ce.svg?fsvogp#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow-right:before {
+  content: "\e931";
+}
+.icon-chatting:before {
+  content: "\e930";
+}
+.icon-polygon:before {
+  content: "\e92f";
+}
+.icon-quite:before {
+  content: "\e92e";
+}
+.icon-star:before {
+  content: "\e92d";
+}
+.icon-check-1:before {
+  content: "\e92c";
+}
+.icon-bubble-chat-1:before {
+  content: "\e92b";
+}
+.icon-mark:before {
+  content: "\e92a";
+}
+.icon-email-1:before {
+  content: "\e929";
+}
+.icon-world-humanitarian-day:before {
+  content: "\e927";
+}
+.icon-ambulance:before {
+  content: "\e928";
+}
+.icon-telephone-2:before {
+  content: "\e924";
+}
+.icon-email-2:before {
+  content: "\e925";
+}
+.icon-portfolio:before {
+  content: "\e926";
+}
+.icon-right-arrow-angle:before {
+  content: "\e923";
+}
+.icon-arrow-left:before {
+  content: "\e912";
+}
+.icon-trolley:before {
+  content: "\e91a";
+}
+.icon-search1:before {
+  content: "\e91b";
+}
+.icon-youtube:before {
+  content: "\e91c";
+}
+.icon-pinterest-p:before {
+  content: "\e91d";
+}
+.icon-x-twitter:before {
+  content: "\e91e";
+}
+.icon-facebook-f:before {
+  content: "\e91f";
+}
+.icon-call:before {
+  content: "\e920";
+}
+.icon-message:before {
+  content: "\e921";
+}
+.icon-pin:before {
+  content: "\e922";
+}
+.icon-bell-1:before {
+  content: "\e900";
+}
+.icon-Cart:before {
+  content: "\e901";
+}
+.icon-certificate-1:before {
+  content: "\e902";
+}
+.icon-emergency-1:before {
+  content: "\e903";
+}
+.icon-family-1:before {
+  content: "\e904";
+}
+.icon-fast-1-1:before {
+  content: "\e905";
+}
+.icon-fire-department-1:before {
+  content: "\e906";
+}
+.icon-fire-extinguisher--1:before {
+  content: "\e907";
+}
+.icon-firefighter-uniform-1:before {
+  content: "\e908";
+}
+.icon-fire-hydrant-1-1:before {
+  content: "\e909";
+}
+.icon-fireman-1:before {
+  content: "\e90a";
+}
+.icon-fire-station-1:before {
+  content: "\e90b";
+}
+.icon-fire-truck-1:before {
+  content: "\e90c";
+}
+.icon-glove:before {
+  content: "\e90d";
+}
+.icon-handshake-1:before {
+  content: "\e90e";
+}
+.icon-man-1:before {
+  content: "\e90f";
+}
+.icon-message2:before {
+  content: "\e910";
+}
+.icon-people-1:before {
+  content: "\e911";
+}
+.icon-pin2:before {
+  content: "\e913";
+}
+.icon-ping:before {
+  content: "\e914";
+}
+.icon-public-health-1:before {
+  content: "\e915";
+}
+.icon-search:before {
+  content: "\e916";
+}
+.icon-share-1:before {
+  content: "\e917";
+}
+.icon-smoke-detector-1:before {
+  content: "\e918";
+}
+.icon-telephone-call-1:before {
+  content: "\e919";
+}

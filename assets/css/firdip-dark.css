@@ -1,0 +1,185 @@
+:root {
+  --firdip-text: #7D8081;
+  --firdip-text-rgb: 125, 128, 129;
+  --firdip-text-gray: #EFE6E1;
+  --firdip-text-gray-rgb: 239, 230, 225;
+  --firdip-base: #CA4445;
+  --firdip-base-rgb: 202, 68, 69;
+  --firdip-gray: #DCCEC6;
+  --firdip-gray-rgb: 220, 206, 198;
+  --firdip-black: #fff;
+  --firdip-black-rgb: 255, 255, 255;
+  --firdip-white: #171818;
+  --firdip-white-rgb: 23, 24, 24;
+  --firdip-secondary: #232728;
+  --firdip-secondary-rgb: 35, 39, 40;
+  --firdip-black2: #000;
+  --firdip-black2-rgb: 0, 0, 0;
+  --firdip-border-color: #F4F2EE;
+  --firdip-border-color-rgb: 244, 242, 238;
+  --firdip-letter-space: 0.1em;
+  --firdip-letter-space-xl: 0.2em;
+}
+
+.topbar-one__info__item i,
+.topbar-one__social a,
+.main-header__right__info__item,
+.main-slider-one__title,
+.main-slider-one__text,
+.main-slider-one__btn__link:hover,
+.feature-one__item__title,
+.feature-one__item:hover .feature-one__item__icon, .feature-one__item:hover .feature-one__item__title, .feature-one__item:hover .feature-one__item__text,
+.sec-title__title,
+.about-one__feature__title,
+.about-one__list__btn a:hover,
+.about-one__feature__item:hover .about-one__feature__icon,
+.about-one__thumb__funfact__text,
+.service-card__content__title,
+.service-card:hover .service-card__icon,
+.firdip-owl__carousel--basic-nav.owl-carousel .owl-nav button span:hover,
+.funfact-one__item__title,
+.funfact-one__item__icon,
+.why-choose-two__feature__title,
+.why-choose-two__feature__top__icon,
+.why-choose-two__thumb__video__text,
+.why-choose-two__thumb__video__icon,
+.testimonials-two__item__content__title,
+.testimonials-two__content__quite,
+.cta-one__content__title,
+.cta-one__content__text,
+.cta-one__content__btn::after,
+.blog-card__link i,
+.__date,
+.blog-card:hover .blog-card__content .blog-card__title,
+.main-footer__top__social a,
+.footer-widget__title,
+.footer-widget__newsletter button[type=submit],
+.testimonials-two .slick-button i:hover,
+.cta-one__content__btn:hover,
+.main-header__right__call:hover .main-header__right__icon {
+  color: var(--firdip-black);
+}
+
+.service-page--home .sec-title .sec-title__tagline, .service-page--home .sec-title .sec-title__title {
+  color: var(--firdip-black) !important;
+}
+
+.main-header,
+.topbar-one__right,
+.topbar-one__right::after,
+.about-one__thumb__funfact,
+.service-card__icon,
+.service-card--two .service-card__inner::after,
+.funfact-one__item::after {
+  background: var(--firdip-secondary);
+}
+
+.funfact-one__item__icon,
+.funfact-one__item__icon::after,
+.why-choose-two::after,
+.testimonials-two__item,
+.client-carousel__top::before,
+.blog-card:hover .blog-card__content .blog-card__link::after {
+  background: #2B2D2E;
+}
+
+.main-header__right__call,
+.main-header__right__call::after,
+.main-slider-one__btn__link::before,
+.about-one__list__btn a::before,
+.firdip-owl__carousel--basic-nav.owl-carousel .owl-nav button span,
+.galley-two__list__item__image__icon__item::after, .galley-two__list__item__image__icon__item::before,
+.cta-one__video__icon,
+.blog-card__content,
+.cta-one__inner::after,
+.testimonials-two .slick-button i {
+  background: var(--firdip-black);
+}
+
+.main-slider-one__carousel .owl-dots .owl-dot span::after {
+  background-color: rgba(var(--firdip-black-rgb, 255, 255, 255), 0.4);
+}
+
+.main-slider-one__carousel .owl-dots .owl-dot:hover span, .main-slider-one__carousel .owl-dots .owl-dot.active span {
+  background: var(--firdip-black);
+}
+
+.main-header__right__number,
+.home-showcase .demo-one__title,
+.about-one__list__btn a,
+.blog-card__title {
+  color: var(--firdip-white);
+}
+
+.demo-one__btns {
+  background-color: rgba(var(--firdip-white-rgb, 23, 24, 24), 0.7);
+}
+
+.about-one__feature {
+  border-bottom: 1px solid #232728;
+}
+
+.about-one__thumb__funfact {
+  border-top: 4px solid var(--firdip-black, #fff);
+  border-left: 4px solid var(--firdip-black, #fff);
+  border-right: 4px solid var(--firdip-black, #fff);
+}
+
+.main-menu .main-menu__list > li > a {
+  color: var(--firdip-gray);
+}
+
+.client-carousel__title {
+  color: var(--firdip-text);
+}
+
+.feature-one__item {
+  border: 1px solid #232728;
+}
+
+.feature-one__item__icon {
+  color: var(--firdip-base);
+}
+
+.galley-two__list__item__image__icon {
+  background: rgba(var(--firdip-black-rgb, 255, 255, 255), 0.2);
+}
+
+.client-carousel {
+  padding-bottom: 200px;
+  margin-bottom: -100px;
+}
+
+.testimonials-two__shape {
+  opacity: 0.23;
+}
+
+.testimonials-two__item__content {
+  background-color: #171818;
+}
+/*# sourceMappingURL=firdip-dark.css.map */
+.map-responsive{
+
+  overflow:hidden;
+
+  padding-bottom:56.25%;
+
+  position:relative;
+
+  height:0;
+
+}
+
+.map-responsive iframe{
+
+  left:0;
+
+  top:0;
+
+  height:100%;
+
+  width:100%;
+
+  position:absolute;
+
+}
