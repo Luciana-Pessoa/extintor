@@ -3896,7 +3896,7 @@ body.megamenu-popup-active .mobile-nav__content {
   top: 18px;
   right: 20px;
   display: block;
-  color: var(--firdip-black, #171818);
+  color: var(--firdip-white, #fff);
 }
 @media (min-width: 1300px) {
   .megamenu-popup .megamenu-clickable--close {
@@ -9875,7 +9875,7 @@ body.megamenu-popup-active .mobile-nav__content {
 
 .mobile-nav__content {
   width: 300px;
-  background-color: var(--firdip-black2, #000);
+  background-color: var(--firdip-black, #171818);
   z-index: 10;
   position: relative;
   height: 100%;
