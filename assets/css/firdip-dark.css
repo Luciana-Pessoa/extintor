@@ -49,7 +49,7 @@
 .cta-one__content__text,
 .cta-one__content__btn::after,
 .blog-card__link i,
-.__date,
+.blog-card__date,
 .blog-card:hover .blog-card__content .blog-card__title,
 .main-footer__top__social a,
 .footer-widget__title,
@@ -158,28 +158,3 @@
   background-color: #171818;
 }
 /*# sourceMappingURL=firdip-dark.css.map */
-.map-responsive{
-
-  overflow:hidden;
-
-  padding-bottom:56.25%;
-
-  position:relative;
-
-  height:0;
-
-}
-
-.map-responsive iframe{
-
-  left:0;
-
-  top:0;
-
-  height:100%;
-
-  width:100%;
-
-  position:absolute;
-
-}
