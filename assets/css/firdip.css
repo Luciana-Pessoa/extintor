@@ -11670,7 +11670,7 @@ body.megamenu-popup-active .mobile-nav__content {
   position: relative;
   z-index: 1;
 }
-@media (max-width: 1199px) and (min-width: 991px) {
+@media (max-width: 1024px) and (min-width: 991px) {
   .about-one__thumb__item--one img {
     object-fit: cover;
     width: 100%;
